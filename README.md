@@ -1,3 +1,3 @@
 Uge 5 Reveiw 
 
-Jeg havde lidt udfordringer med at uploade mine projekter til github, bær over  med mig hvis der mangler noget. 
+Jeg nåede desværre ikke at sætte min fredags opgave op på dropletten, men mine paths virker lokalt
