@@ -1,3 +1,5 @@
 Uge 5 Reveiw 
 
-Jeg nåede desværre ikke at sætte min fredags opgave op på dropletten, men mine paths virker lokalt
+#Problems with commiting friday and thursday, becuase they were initially cloned from another repository. however i do believe everthing was pushed in the end. 
+
+#Unfortunately i did not manage to get my fridays assignment working on the droplet, but /all,  /name{name} and {id} works locally 
